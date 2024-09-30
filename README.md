@@ -6,3 +6,5 @@ Project on developing an NL2SQL (Natural Language to SQL) system leveraging NLP 
 ## INTRODUCTION:
 
 The project titled "Translation of Natural Language Queries to SQL Queries towards Building a Natural Language Interface to Database" focuses on bridging the gap between non-technical users and database management systems. Traditionally, retrieving data from databases requires knowledge of SQL, which can be a barrier for many users. By developing a Natural Language to SQL (NL2SQL) system, this project aims to translate user-friendly, natural language queries into SQL statements. Leveraging Natural Language Processing (NLP) techniques such as tokenization, part-of-speech tagging, and syntactic parsing, the system enables more accessible, intuitive, and efficient database interactions. The goal is to simplify the database querying process and enhance the user experience, particularly for those with limited technical expertise.
+
+## READ THE INTERNSHIP REPORT FOR DETAILED UNDERSTANDING
