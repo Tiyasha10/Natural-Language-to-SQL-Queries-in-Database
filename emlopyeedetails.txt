@@ -1,0 +1,8 @@
+
+     ID_NO FIRST_NAME                                         LAST_NAME                                                 AGE     SALARY
+---------- -------------------------------------------------- -------------------------------------------------- ---------- ----------
+       101 Anata                                              Sarkar                                                     28      55000
+       102 Asutosh                                            Mukherjee                                                  34      63000
+       103 Rada                                               Sengupto                                                   25      45000
+       104 Bulai                                              Chandra                                                    45      80000
+       105 Chaitali                                           Mukherjee                                                  30      57000
